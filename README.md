@@ -9,6 +9,7 @@
 ![RDS](https://img.shields.io/badge/amazonrds-%23527FFF?logo=amazonrds&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/amazondynamodb-%234053D6?logo=amazondynamodb)
 ![Lambda](https://img.shields.io/badge/awslambda-%23FF9900?logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/amazons3-%23569A31?logo=amazons3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
