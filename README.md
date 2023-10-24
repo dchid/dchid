@@ -6,6 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazonaws-%23232F3E?logo=amazonaws&logoColor=orange)
+![DynamoDB](https://img.shields.io/badge/amazondynamodb-%234053D6?logo=amazondynamodb)
 ![Static Badge](https://img.shields.io/badge/awslambda-%23FF9900?logo=awslambda&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
