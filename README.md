@@ -24,7 +24,7 @@
 ![RedHat](https://img.shields.io/badge/redhat-%23EE0000?logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
-I'm David Chidester, a computer scientist and programmer from Oakland CA.
+I'm David Chidester, a computer scientist and programmer from Oakland CA, currently working at Stanford University IT.
 
 ### Where to find me
 
