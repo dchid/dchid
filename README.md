@@ -1,5 +1,7 @@
 <h1>Welcome to my Gihub page!</h1>
 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -23,11 +25,11 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![RedHat](https://img.shields.io/badge/redhat-%23EE0000?logo=redhat&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#)
 
 I'm David Chidester, a computer scientist and programmer from Oakland CA, currently working at Stanford University IT.
 
