@@ -5,7 +5,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-%23A8B9CC?logo=C%2B%2B&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/amazonaws-%23232F3E?logo=amazonaws&logoColor=orange)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![RDS](https://img.shields.io/badge/amazonrds-%23527FFF?logo=amazonrds&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/amazondynamodb-%234053D6?logo=amazondynamodb)
 ![Lambda](https://img.shields.io/badge/awslambda-%23FF9900?logo=awslambda&logoColor=white)
